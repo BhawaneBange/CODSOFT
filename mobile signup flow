@@ -1,0 +1,45 @@
+style="width: 440px; height: 910px; position: relative; background: linear-gradient(0deg, white 0%, white 100%); background-image: url(https://via.placeholder.com/440x910)">
+  <img style="width: 42px; height: 68px; left: 30px; top: 22px; position: absolute" src="https://via.placeholder.com/42x68" />
+  <div style="left: 30px; top: 197px; position: absolute; color: white; font-size: 64px; font-family: Inter; font-weight: 600; word-wrap: break-word">Hi!</div>
+  <div style="height: 53px; left: 30px; top: 350px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="width: 336px; height: 53px; padding-left: 22px; padding-right: 22px; padding-top: 8px; padding-bottom: 8px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="width: 85px; height: 27px; color: #1E1E1E; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">Email</div>
+    </div>
+  </div>
+  <div style="height: 53px; left: 30px; top: 433px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="width: 336px; height: 53px; background: #CFA279; flex-direction: column; justify-content: center; align-items: center; display: flex">
+      <div style="color: #1E1E1E; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">Continue</div>
+    </div>
+  </div>
+  <div style="height: 39px; left: 30px; top: 535px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="color: white; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">Or</div>
+  </div>
+  <div style="height: 53px; left: 30px; top: 589px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="width: 336px; height: 53px; position: relative; background: white">
+      <div style="left: 80px; top: 22px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Continue with facebook</div>
+      <img style="width: 34px; height: 47px; left: 26px; top: 6px; position: absolute" src="https://via.placeholder.com/34x47" />
+    </div>
+  </div>
+  <div style="height: 53px; left: 30px; top: 663px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="width: 336px; height: 53px; padding-top: 12px; padding-bottom: 8px; padding-left: 27px; padding-right: 27px; background: white; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+      <img style="width: 35px; height: 30px" src="https://via.placeholder.com/35x30" />
+      <div style="color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Continue with Google</div>
+    </div>
+  </div>
+  <div style="height: 53px; left: 30px; top: 731px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="width: 336px; height: 53px; padding-bottom: 7px; padding-left: 30px; padding-right: 30px; background: white; justify-content: flex-start; align-items: center; gap: 17px; display: inline-flex">
+      <img style="width: 50px; height: 46px" src="https://via.placeholder.com/50x46" />
+      <div style="color: #1E1E1E; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Continue with Apple</div>
+    </div>
+  </div>
+  <div style="height: 24px; left: 30px; top: 832px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="color: #1A130D; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Forget your Password?</div>
+  </div>
+  <div style="height: 24px; left: 30px; top: 799px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-end; display: inline-flex">
+    <div style="color: white; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">Don’t  have an account ? Sign up</div>
+  </div>
+</div>
+<div style="width: 440px; height: 910px; position: relative; background: linear-gradient(0deg, white 0%, white 100%); background-image: url(https://via.placeholder.com/440x910)">
+  <img style="width: 42px; height: 68px; left: 30px; top: 22px; position: absolute" src="https://via.placeholder.com/42x68" />
+  <div style="width: 233px; height: 115px; left: 51px; top: 113px; position: absolute; color: white; font-size: 64px; font-family: Inter; font-weight: 600; word-wrap: break-word">Sign up</div>
+  <div style="width: 469px; height: 561px; left: 0px; top: 251px; position: absolute">
